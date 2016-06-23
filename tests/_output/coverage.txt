@@ -1,0 +1,12 @@
+
+
+Code Coverage Report:     
+  2016-06-23 15:31:40     
+                          
+ Summary:                 
+  Classes: 100.00% (1/1)  
+  Methods: 100.00% (22/22)
+  Lines:   100.00% (97/97)
+
+\Zver::FileCache
+  Methods: 100.00% (22/22)   Lines: 100.00% ( 97/ 97)
