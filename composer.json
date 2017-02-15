@@ -20,10 +20,5 @@
   "require": {
   },
   "require-dev": {
-    "codeception/codeception": "2.*",
-    "codeception/c3": "2.*",
-    "zver/encoding": "1.*",
-    "phpdocumentor/phpdocumentor": "2.*",
-    "cvuorinen/phpdoc-markdown-public": "*"
   }
 }
